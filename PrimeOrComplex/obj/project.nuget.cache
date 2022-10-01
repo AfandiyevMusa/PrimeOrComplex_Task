@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRFjV8wzIZL5y/7XfRqTEt/PzbsPj9QE6i7SgJ/454Ln7z8dcOg0oywrKfLEro9jo6tTcr9bSgQtUHlIuTTvSg==",
+  "success": true,
+  "projectFilePath": "/Users/afandiyevmusa/Documents/VisualStudio/PrimeOrComplex_Task/PrimeOrComplex/PrimeOrComplex.csproj",
+  "expectedPackageFiles": [
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
